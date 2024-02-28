@@ -1,6 +1,6 @@
 ## Codecademy import export lesson (Back-end path)
 
-[TonciZ.github.io/](https://tonciz.github.io./work-around-explorer)
+[TonciZ.github.io/work-around-explorer](https://tonciz.github.io./work-around-explorer)
 
 WorkAround now wants to release a new web application called WorkAround Explorer to make their data more easily viewable. This web app should allow users to choose specific roles and companies in the tech industry to see the following information:
 
